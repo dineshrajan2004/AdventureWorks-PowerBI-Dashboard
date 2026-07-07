@@ -6,8 +6,6 @@ An interactive Power BI dashboard built using the Microsoft Adventure Works samp
 📁 Repository Contents
  Power BI Dashboard (.pbix) – Complete interactive dashboard.
  
-📄 Dashboard PDF – Exported report for quick preview.
-
 🗃️ Adventure Works Dataset – Sample dataset used for the project.
 
 🖼️ Dashboard Screenshots – Preview images of each report page.
