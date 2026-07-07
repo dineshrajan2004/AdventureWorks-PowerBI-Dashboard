@@ -22,8 +22,14 @@ Responsive Dashboard Design
          
 📸 Dashboard Preview
 
-<img width="4150" height="2400" alt="Microsoft Powerbi Project Edit_page-0004" src="https://github.com/user-attachments/assets/6d4b7ca1-35db-40d6-98bf-060c54ee54a6" />
-<img width="4525" height="2650" alt="Microsoft Powerbi Project Edit_page-0003" src="https://github.com/user-attachments/assets/cc8b516f-0137-4c44-812d-fd722d27ddf9" />
-<img width="4367" height="2400" alt="Microsoft Powerbi Project Edit_page-0002" src="https://github.com/user-attachments/assets/2dd71330-bc51-4ccc-af7b-9fb8dcb736af" />
-<img width="4367" height="2400" alt="Microsoft Powerbi Project Edit_page-0001" src="https://github.com/user-attachments/assets/c195eadd-fe9d-499a-b96a-5df80f958769" />
+<img width="4367" height="2400" alt="Microsoft Powerbi Project Edit_page-0001" src="https://github.com/user-attachments/assets/14b4ec69-24b5-46a6-9211-7e53a7b4555e" />
+
+<img width="4367" height="2400" alt="Microsoft Powerbi Project Edit_page-0002" src="https://github.com/user-attachments/assets/faa27bb4-42c5-4d7a-898f-6f47bd08b3e4" />
+
+<img width="4525" height="2650" alt="Microsoft Powerbi Project Edit_page-0003" src="https://github.com/user-attachments/assets/fa8cffe8-d7d5-48c0-8b1a-bd2515471e12" />
+
+<img width="4150" height="2400" alt="Microsoft Powerbi Project Edit_page-0004" src="https://github.com/user-attachments/assets/46cb96f0-0f50-4eb3-8070-66cb37856a75" />
+
+
+
 
